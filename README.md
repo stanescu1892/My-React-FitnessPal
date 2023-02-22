@@ -10,9 +10,14 @@ To get started with My-React-FitnessPal:
 
 5.Open a web browser and navigate to "http://localhost:3000" to access the web app.
 
-6.Technologies used in this project:
 
-Technologies used:
+
+
+
+
+Technologies used in this project:
+
+
 React Js: a popular JavaScript library for building user interfaces.
 Redux: a state management tool for managing complex application state.
 Bootstrap: a popular CSS framework for creating responsive web designs.
@@ -21,8 +26,11 @@ Features of My-React-FitnessPal:
 
 A comprehensive collection of fitness exercises, filtered by body part, target muscles, and equipment.
 Customizable workout plans created by logged-in users from a vast collection of exercises, with the option to add a timer to each exercise and save favorite exercises to a personal list.
+
 Reminders and notifications customized to your preferences, including email notifications and future plans to incorporate mobile notifications.
 Payment feature using PayPal for premium subscriptions.
+
 User Settings page for a personalized experience, with the ability to choose which training collections to share publicly, set notifications for specific dates, and select a small info card to display on the bottom right of the screen.
+
 Extra features, such as a PWA for accessibility, offline functionality, and a Nutrition page for additional support in achieving a healthier lifestyle.
 Join the thousands of fitness enthusiasts who have already made My-React-FitnessPal their go-to app for achieving their health and fitness goals!
