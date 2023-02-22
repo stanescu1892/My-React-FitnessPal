@@ -1,10 +1,15 @@
 To get started with My-React-FitnessPal:
 
 1.Clone the repository to your local machine.
+
 2.Navigate to the project's root directory and run "npm install" to install the necessary dependencies.
+
 3.In the React folder, run "npm start" to start the React development server.
+
 4.In a separate terminal window, run "node app.js" in the root directory to start the server on port 5000.
+
 5.Open a web browser and navigate to "http://localhost:3000" to access the web app.
+
 6.Technologies used in this project:
 
 Technologies used:
